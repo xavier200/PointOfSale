@@ -7,7 +7,11 @@ function addItem()
 }
 if(isNaN(newItem)) {
 
+<<<<<<< Updated upstream
 alert("Enter price as a number")
+=======
+alert("Enter answer as a number")
+>>>>>>> Stashed changes
 }
 
 
